@@ -2,9 +2,9 @@
 This repository contains projects I developed with Java while learning Object-Oriented Programming for CSE 102 Computer Programming course. 
 Assignments are interconnected and the requirements for the project are clearly stated as follows.
 
+```
 ## Assignment 01
 Requirements: Write a set of classes according to the following specifications:
-```
 1. Product
 a. Attributes
 i. Id: String
