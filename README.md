@@ -2,7 +2,6 @@
 This repository contains projects I developed with Java while learning Object-Oriented Programming for CSE 102 Computer Programming course. 
 Assignments are interconnected and the requirements for the project are clearly stated as follows.
 
-```
 ## Assignment 01
 Requirements: Write a set of classes according to the following specifications:
 1. Product
@@ -91,7 +90,6 @@ vi. addProduct(product: Product)
 1. Adds the passed product to the end of the list
 2. Returns none
 vii. getProduct(index: int): Product
-```
 1. returns the Product at the position passed
 2. if the index passed is negative or greater than the index of
 the last entered product, return null
