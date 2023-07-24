@@ -28,7 +28,7 @@ change count and return 0
 viii. toString(): String – “Product {name} has {quantity} remaining”
 ix. equals(o: Object): boolean – returns true if the passed object is
 also a Product and has the same price (within 0.001)
-2. FoodProduct – a child of Product
+### 2. FoodProduct – a child of Product
 a. Attributes
 i. Calories: int
 ii. Dairy: boolean
@@ -41,7 +41,7 @@ dairy, peanuts,eggs and gluten as parameters
 ii. getCalories(): int and setCalories(calories: int)
 iii. containsDairy(): boolean, containsEggs(): boolean,
 containsPeanuts(): boolean, and containsGluten(): boolean
-3. CleaningProduct – a child of Product
+### 3. CleaningProduct – a child of Product
 a. Attributes
 i. Liquid: boolean
 ii. WhereToUse: String
@@ -50,14 +50,14 @@ i. Constructor that takes the ID, name, quantity, price, liquid, and
 whereToUse as parameters
 ii. getWhereToUse () and setWhereToUse (size: String)
 iii. isLiquid(): boolean
-4. Customer
+### 4. Customer
 a. Attributes
 i. Name: String
 b. Methods
 i. Constructor that takes the name as parameter
 ii. getName(): String and setName(name: String)
 iii. toString(): String – returns the name of the Customer
-5. ClubCustomer – a child of Customer
+### 5. ClubCustomer – a child of Customer
 a. Attributes
 i. Phone: String
 ii. Points: int
@@ -71,7 +71,7 @@ iv. addPoints(points: int): none
 2. if passed value is negative, does nothing
 v. toString(): String – returns the name of the Customer + “ has “
 {points} + “ points”
-6. Store
+### 6. Store
 a. Attributes
 i. Name: String
 ii. Website: String
