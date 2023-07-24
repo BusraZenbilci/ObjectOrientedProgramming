@@ -6,10 +6,10 @@ Assignments are interconnected and the requirements for the project are clearly 
 Requirements: Write a set of classes according to the following specifications:
 ### 1. Product
 #### a. Attributes
-i. Id: String
-ii. Name: String
-iii. Quantity: int
-iv. Price: double
+##### i. Id: String
+##### ii. Name: String
+##### iii. Quantity: int
+##### iv. Price: double
 #### b. Methods
 i. Constructor that takes the ID, name, quantity, and price as
 parameters
