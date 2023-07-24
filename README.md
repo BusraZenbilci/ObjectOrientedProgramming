@@ -4,7 +4,7 @@ Assignments are interconnected and the requirements for the project are clearly 
 
 ## Assignment 01
 Requirements: Write a set of classes according to the following specifications:
-1. Product
+### 1. Product
 a. Attributes
 i. Id: String
 ii. Name: String
