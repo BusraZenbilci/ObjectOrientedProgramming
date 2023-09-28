@@ -5,24 +5,24 @@ Assignments are interconnected and the requirements for the project are clearly 
 ## Assignment 01
  1. Product
  2. FoodProduct – a child of Product
-### 3. CleaningProduct – a child of Product
-### 4. Customer
-### 5. ClubCustomer – a child of Customer
-### 6. Store
+ 3. CleaningProduct – a child of Product
+ 4. Customer
+ 5. ClubCustomer – a child of Customer
+ 6. Store
 
 ## Assignment 02
-### 1. Product
-### 2. FoodProduct – a child of Product
-### 3. CleaningProduct – a child of Product
-### 4. Customer
-### 5. ClubCustomer – a child of Customer
-### 6. Store
+ 1. Product
+ 2. FoodProduct – a child of Product
+ 3. CleaningProduct – a child of Product
+ 4. Customer
+ 5. ClubCustomer – a child of Customer
+ 6. Store
 
 ## Assignment 03
-### 1. Product
-### 2. FoodProduct – a child of Product
-### 3. CleaningProduct – a child of Product
-### 4. Customer
-### 5. ClubCustomer – a child of Customer
-### 6. Store
-### 7. Custom Exceptions
+ 1. Product
+ 2. FoodProduct – a child of Product
+ 3. CleaningProduct – a child of Product
+ 4. Customer
+ 5. ClubCustomer – a child of Customer
+ 6. Store
+ 7. Custom Exceptions
