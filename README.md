@@ -3,8 +3,8 @@ This repository contains projects I developed with Java while learning Object-Or
 Assignments are interconnected and the requirements for the project are clearly stated as follows.
 
 ## Assignment 01
-### 1. Product
-### 2. FoodProduct – a child of Product
+ 1. Product
+ 2. FoodProduct – a child of Product
 ### 3. CleaningProduct – a child of Product
 ### 4. Customer
 ### 5. ClubCustomer – a child of Customer
